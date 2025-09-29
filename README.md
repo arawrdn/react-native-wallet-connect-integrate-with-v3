@@ -55,6 +55,14 @@ Change the flag with:
 npx react-native run-ios --simulator="iPhone 14"
 ```
 
+# WalletKit / WalletConnect v2 Integration (React Native)
+
+## Setup
+1. Install dependencies:
+```bash
+npm install @walletconnect/ethereum-provider @walletconnect/web3wallet ethers
+
+
 If you have `/ios` or Pod Issues, delete the `Podfile.lock` and re-run `pod update && pod install` worked for my case
 
 ## Support
